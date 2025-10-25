@@ -20,7 +20,15 @@
 
     <td valign="top" width="50%">
       ᴠᴏʟᴜᴍᴇ : ▮▮▮▮▮▮▯▯▯
-      <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/78VDSLVvRqZN9rbJZwLMIf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" 
+    src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID_HERE?utm_source=generator" 
+    width="100%" 
+    height="352" 
+    frameBorder="0" 
+    allowfullscreen="" 
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+    loading="lazy">
+</iframe>
     </td>
   </tr>
 </table>
