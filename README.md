@@ -1,10 +1,12 @@
 <!-- HEADER SECTION -->
 <p align="center">
+  !(https://github.com/user-attachments/assets/2e64b6ff-ce4d-4010-a320-0cd7adf4146d)
+
   <img src="https://your-image-link.com/header-image.jpg" alt="Header Image" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<p align="center">A curious mind exploring the intersection of [your passions].</p>
+<h1 align="center">Hi </h1>
+<p align="center">Just for fun :)</p>
 
 ---
 
@@ -12,9 +14,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      ## 🌿 About Me
-      I’m someone who loves to dive into [passions/interests].<br/>
-      I write about the things I’m learning, reading, or exploring.
+      ✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧<br/> 
+      Name: AJ<br/>
+      Passionate about: possibilities and cereal<br/>
+      Things Im into...
     </td>
 
     <td valign="top" width="50%">
