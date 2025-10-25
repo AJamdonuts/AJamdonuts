@@ -1,12 +1,10 @@
 <!-- HEADER SECTION -->
 <p align="center">
-  !(https://github.com/user-attachments/assets/2e64b6ff-ce4d-4010-a320-0cd7adf4146d)
-
-  <img src="https://your-image-link.com/header-image.jpg" alt="Header Image" width="100%" />
+  <img src="https://github.com/user-attachments/assets/2e64b6ff-ce4d-4010-a320-0cd7adf4146d" alt="Header Image" width="100%" />
 </p>
 
-<h1 align="center">Hi </h1>
-<p align="center">Just for fun :)</p>
+<h1 align="center">🎧 ୭ ₊ . AJams ˚. ✧. 🐇</h1>
+<p align="center">𝚓𝚞𝚜𝚝 𝚏𝚘𝚛 𝚏𝚞𝚗 :)</p>
 
 ---
 
@@ -15,14 +13,14 @@
   <tr>
     <td valign="top" width="50%">
       ✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧<br/> 
-      Name: AJ<br/>
-      Passionate about: possibilities and cereal<br/>
-      Things Im into...
+          - 𝙽𝚊𝚖𝚎: 𝙰𝙹<br/>
+          - 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝: 𝚙𝚘𝚜𝚜𝚒𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝚊𝚗𝚍 𝚌𝚎𝚛𝚎𝚊𝚕<br/>
+          - 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸𝚖 𝚒𝚗𝚝𝚘... 
     </td>
 
     <td valign="top" width="50%">
-      ## 🎵 Currently Listening
-      <iframe src="https://open.spotify.com/embed/playlist/your-playlist-id" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      ᴠᴏʟᴜᴍᴇ : ▮▮▮▮▮▮▯▯▯
+      <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/78VDSLVvRqZN9rbJZwLMIf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </td>
   </tr>
 </table>
