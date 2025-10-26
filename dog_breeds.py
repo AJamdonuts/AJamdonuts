@@ -80,7 +80,7 @@ except requests.RequestException as e:
 # Step 5: Update README with breed name and date
 readme_path = os.path.join(repo_root, "README.md")
 today_str = datetime.utcnow().strftime("%Y-%m-%d")
-new_line = f"🐶 Top dog breed today ({today_str}): {top_breed_name}\n"
+new_line = f"🐾 Top dog breed today ({today_str}): {top_breed_name}\n"
 
 # Replace existing line if exists
 if os.path.exists(readme_path):
@@ -89,7 +89,7 @@ if os.path.exists(readme_path):
     with open(readme_path, "w") as f:
         replaced = False
         for line in lines:
-            if line.startswith("🐶 Top dog breed today"):
+            if line.startswith("🐾 Top dog breed today"):
                 f.write(new_line)
                 replaced = True
             else:
