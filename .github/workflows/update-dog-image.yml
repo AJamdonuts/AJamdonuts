@@ -22,6 +22,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests matplotlib pillow
 
+    - name: Show working directory and files
+      run: |
+        pwd
+        ls -R
+
     - name: Run dog breed script
       run: python dog_breeds.py
 
