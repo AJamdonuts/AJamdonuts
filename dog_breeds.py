@@ -78,24 +78,34 @@ except requests.RequestException as e:
     print(f"Failed to fetch top breed image: {e}")
 
 # Step 5: Update README with breed name and date
+# Step 5: Update README with image and text
 readme_path = os.path.join(repo_root, "README.md")
 today_str = datetime.utcnow().strftime("%Y-%m-%d")
-new_line = f"🐾 Top dog breed today ({today_str}): {top_breed_name}\n"
+ts_str = datetime.utcnow().strftime("%Y%m%d")  # cache-buster for image
 
-# Replace existing line if exists
+# HTML for resized image + text underneath
+new_readme_content = f'<img src="assets/top_breed.png?ts={ts_str}" alt="Top Dog Breed" width="300" height="auto"/>\n\n🐾 Most uploaded dog breed today ({today_str}): {top_breed_name}\n'
+
+# Replace old block if it exists
 if os.path.exists(readme_path):
     with open(readme_path, "r") as f:
         lines = f.readlines()
+
     with open(readme_path, "w") as f:
         replaced = False
         for line in lines:
-            if line.startswith("🐾 Top dog breed today"):
-                f.write(new_line)
+            if line.startswith('<img src="assets/top_breed.png'):
+                f.write(new_readme_content)
                 replaced = True
+                # skip the old text line below the image
+                continue
+            elif line.startswith("🐾 Most uploaded dog breed today"):
+                continue
             else:
                 f.write(line)
         if not replaced:
-            f.write("\n" + new_line)
+            f.write("\n" + new_readme_content)
 else:
     with open(readme_path, "w") as f:
-        f.write(new_line)
+        f.write(new_readme_content)
+
