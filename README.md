@@ -11,6 +11,20 @@
 | <div style="border: 2px solid #ccc; border-radius: 100px; padding: 10px; ">✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧<br/> - 𝙽𝚊𝚖𝚎: 𝙰𝙹<br/> - 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝: 𝚙𝚘𝚜𝚜𝚒𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝚊𝚗𝚍 𝚌𝚎𝚛𝚎𝚊𝚕<br/>- 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸𝚖 𝚒𝚗𝚝𝚘... </div> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhkNTE4eTZldGNnM21qanVucDVqNjRzNjltZzl3NHB1dGpuMHgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhnzJz0tkWrwjvcH1g/giphy.gif" width="220"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhkNTE4eTZldGNnM21qanVucDVqNjRzNjltZzl3NHB1dGpuMHgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhnzJz0tkWrwjvcH1g/giphy.gif" width="220"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 |:--|--:|
 
+<img
+  align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhkNTE4eTZldGNnM21qanVucDVqNjRzNjltZzl3NHB1dGpuMHgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhnzJz0tkWrwjvcH1g/giphy.gif"
+/>
+
+<h2>⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋄⋄⋆⋅⋆⋅⋆⋄</h2>
+<ul>
+  <li>𝑰 ♡ 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈</li>
+  <li>𝑪𝒐𝒐𝒍 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆</li>
+  <li>𝑴𝒊𝒏𝒆𝒄𝒓𝒂𝒇𝒕</li>
+  <li>𝑯𝒐𝒓𝒓𝒐𝒓</li>
+</ul>
+
+
+
 <img src="assets/top_breed.png?ts=20251027" alt="Top Dog Breed" width="300" height="auto"/>
 
 🐾 Most uploaded dog breed today (2025-10-27): Affenpinscher
