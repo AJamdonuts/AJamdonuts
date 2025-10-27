@@ -12,7 +12,7 @@
 |:--|--:|
 
 <img
-  align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhkNTE4eTZldGNnM21qanVucDVqNjRzNjltZzl3NHB1dGpuMHgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhnzJz0tkWrwjvcH1g/giphy.gif"
+  align="right" src="https://github.com/AJamdonuts/AJamdonuts/blob/main/_.jpeg?raw=true" width=500
 />
 
 <h2>⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋄⋄⋆⋅⋆⋅⋆⋄</h2>
