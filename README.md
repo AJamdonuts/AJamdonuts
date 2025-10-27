@@ -12,7 +12,7 @@
 |:--|--:|
 
 <img
-  align="right" src="https://github.com/AJamdonuts/AJamdonuts/blob/main/_.jpeg?raw=true" width=500
+  align="right" src="https://github.com/AJamdonuts/AJamdonuts/blob/main/_%20(1).jpeg?raw=true" width=450
 />
 
 <h2>⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋆⋄⋄⋆⋅⋄⋄⋆⋅⋆⋅⋆⋄</h2>
