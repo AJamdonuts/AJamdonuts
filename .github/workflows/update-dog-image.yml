@@ -31,8 +31,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
-          # touch image to force commit
+          # fetch latest changes
+          git pull --rebase origin main || true
+          # touch image to ensure a commit even if same content
           find assets/top_breed.png -exec touch {} \;
           git add assets/top_breed.png README.md
           git commit -m "Update top dog breed image & README" || echo "No changes to commit"
-          git push
+          git push origin main
+
