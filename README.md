@@ -165,36 +165,17 @@
 
 ---
 
-<!-- BOOKS & ARTICLES RECOMMENDATION GRID -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      ## 📚 Books I Recommend
-      - *Book Title 1* by Author 1
-      - *Book Title 2* by Author 2
-      - *Book Title 3* by Author 3
-    </td>
 
-    <td valign="top" width="50%">
-      ## 📝 Articles & Videos
-      - [Article Title](https://link-to-article.com) - Short description
-      - [Video Title](https://link-to-video.com) - Short description
-      - [Another Resource](https://link.com) - Short description
-    </td>
-  </tr>
-</table>
 
 ---
 
-## 💡 Project Inspiration
+## Project Inspiration
 Here are some coding/project ideas I’m excited about or exploring:
-- Idea 1 – short description
-- Idea 2 – short description
-- Idea 3 – short description
+
 
 ---
 
-## ✨ Fun Corner
+##  Fun Corner
 A few random things I love:
 - Nature walks & photography
 - Music playlists & vinyl collecting
@@ -202,9 +183,6 @@ A few random things I love:
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting! Feel free to connect with me on <a href="https://twitter.com/yourhandle">Twitter</a> or <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>.</i>
-</p>
 
 🐶 Top dog breed today (2025-10-26): Affenpinscher
 
