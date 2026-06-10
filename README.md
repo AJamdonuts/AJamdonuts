@@ -25,9 +25,10 @@
 
 
 
-<img src="assets/top_breed.png?ts=20260609" alt="Top Dog Breed" width="300" height="auto"/>
+<img src="assets/top_breed.png?ts=20260610" alt="Top Dog Breed" width="300" height="auto"/>
 
-🐾 Most uploaded dog breed today (2026-06-09): Affenpinscher
+🐾 Most uploaded dog breed today (2026-06-10): Affenpinscher
+
 
 
 
